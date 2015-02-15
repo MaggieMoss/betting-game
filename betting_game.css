@@ -1,0 +1,54 @@
+h1 {
+	text-align: center;
+}
+
+body {
+	margin: 0 auto;
+	width: 960px;
+}
+.center {
+	margin: 10px;
+	padding-top: 50px;
+}
+
+.rules {
+	margin:0, auto;
+	background-color:green;
+	padding: 2rem;
+	margin-left: 10rem;
+	margin-right: 10rem;
+}
+.play {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	margin: 0 auto;
+/*	background-image: url("vegas.png");*/
+	/*background-repeat: no-repeat;*/
+	height: 540px;
+	width: 725px;
+	padding: 3rem;
+	text-align:center;
+}
+.controls {
+	text-align: center;
+	padding: 2rem;
+	font-family: 'Lato', sans-serif;
+}
+ul {
+	padding: 0 ;
+}
+
+li {
+	list-style-type: none;
+}
+
+table {
+	padding: 2rem;
+	text-align: center;
+	margin: 0 auto;
+	border-style: double;
+	border-color: black;
+	border-radius: 0.5rem;
+	border-width: 0.5rem;
+}
+
